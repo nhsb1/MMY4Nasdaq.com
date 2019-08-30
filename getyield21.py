@@ -35,7 +35,7 @@ def main():
     """ Function executes main logic loop
     """
     symbol_list = ['swvxx', 'vmmxx', 'sprxx', 'mjlxx', 'vmfxx', 'VUSXX', 'VMVXX', \
-     'IUSXX', 'TCRXX', 'PRRXX', 'PCOXX', 'TPPXX', 'TSCXX', 'PNPXX', 'PTMXX']
+     'IUSXX']
     for i in symbol_list:
         print(get_mm_yield(i))
 if __name__ == '__main__':
