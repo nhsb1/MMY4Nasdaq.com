@@ -1,5 +1,6 @@
 # MMY4Nasdaq.com
 Scrapes yield information from nasdaq.com for money market funds
+
 (Because IEX returns None for dividendYield on money markets - something like https://github.com/iexg/IEX-API/issues/654)
 
 Install
