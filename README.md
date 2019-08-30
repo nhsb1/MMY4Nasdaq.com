@@ -5,7 +5,7 @@ Scrapes yield information from nasdaq.com for money market funds
 Install
 -------
 
-    Download the getyield21.py, replace symbols in the symbol_list with money market funds that you care about. 
+    Download getyield21.py, replace symbols in the symbol_list with money market funds that you care about. 
 
 Usage
 -----
